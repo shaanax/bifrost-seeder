@@ -1,7 +1,12 @@
-bitcoin-seeder
+bifrost-seeder
 ==============
 
-Bitcoin-seeder is a crawler for the Bitcoin network, which exposes a list
+This software is forked from the bitcoin-seeder and modified for the Bifrost (PIVX fork) network.
+
+Original version resides at https://github.com/sipa/bitcoin-seeder
+PIVX version resides at https://github.com/Warrows/pivx-seeder
+
+Bifrost-seeder is a crawler for the Bitcoin network, which exposes a list
 of reliable nodes via a built-in DNS server.
 
 Features:
